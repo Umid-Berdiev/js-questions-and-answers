@@ -3,7 +3,7 @@ console.log('a')
 
 let timmy = setTimeout(() => {
   console.log('b');
-}, 2)
+}, 1)
 
 let timothy = setTimeout(() => {
   console.log('c')
